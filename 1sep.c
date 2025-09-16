@@ -11,6 +11,7 @@ int main(){
   scanf("%f",&per);
   printf("Percentage is:%f\n",per);
   printf("Succes");
+  printf("hello");
 
 
 
