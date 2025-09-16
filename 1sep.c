@@ -12,6 +12,7 @@ int main(){
   printf("Percentage is:%f\n",per);
   printf("Succes");
   printf("hello");
+  printf("\n");
 
 
 
