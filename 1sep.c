@@ -10,6 +10,7 @@ int main(){
   printf("Enter the percentage\n");
   scanf("%f",&per);
   printf("Percentage is:%f\n",per);
+  printf("Succes");
 
 
 
